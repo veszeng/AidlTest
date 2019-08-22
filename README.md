@@ -1,0 +1,2 @@
+AIDL
+AndroidAidlC和AndroidAidlS通讯，AndroidAidls用作服务端。
